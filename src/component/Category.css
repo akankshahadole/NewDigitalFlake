@@ -1,0 +1,95 @@
+.fullcontainer{
+    display: flex;
+    /* justify-content: space-between; */
+    /* align-items: center; */
+
+}
+.smallc{
+    width: 250px;
+    height: 86vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    background-color: rgb(246, 240, 240);
+}
+.bigcontent1{
+    margin-top: -140px;
+}
+.Addcontent{
+    display: flex;
+    gap: 30px;
+}
+.Addcontent button{
+    border-radius: 10px;
+    width: 100px;
+    border: none;
+    background-color: rgb(113, 60, 162);
+    color: white;
+    margin-left: 300px;
+}
+.cat{
+    margin-top: -5px;
+}
+.Addcontent input{
+    width: 350px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.aese{
+    display: flex;
+    gap: 10px;
+}
+.item{
+    margin-top: 15px;
+}
+.first ,.second, .third{
+    display: flex;
+    align-items: center;
+
+    justify-content: space-between;
+    gap:70px;
+    width:230px;
+    padding:5px;border-radius: 10px;
+    height: 40px;
+
+}
+.first:hover, .second:hover, .third:hover{
+    cursor: pointer;
+    background-color: yellowgreen;
+}
+.smallright{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:10px;
+}
+
+.big-icon{
+    height: 40px;
+    margin-left: 140px;
+    width: 40px;
+    text-align: center;
+    background-color: rgb(113, 60, 162);
+    color: white;
+    border-radius: 5px;
+    font-size: 27px;
+}
+.p-up{
+    font-size: 40px;
+}
+.p-down{
+    font-size: 25px;
+}
+.title{
+    margin-left: 0px;
+    padding-left: 30px;
+    margin-top: 20px;
+    display: flex;
+    text-align: center;
+    gap: 130px;
+    background-color:yellowgreen ;
+}
+.sts{
+    margin-left: 165px;
+}

@@ -1,0 +1,28 @@
+.bigcontainer {
+    height: 65px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:  rgb(113, 60, 162);
+    color: white;
+}
+.left h1{
+    height: 30px;
+    width: 30px;
+    border: solid 1px white;
+    font-size: 25px;
+    border-radius: 2px;
+    text-align: center;
+    margin-left: 10px;
+}
+.left p{
+    font-size: 22px;
+    margin-left: 20px;
+}
+.bigcontainer .left{
+display: flex;
+justify-content: space-between;
+align-items: center;
+color: white;
+}

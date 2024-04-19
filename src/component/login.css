@@ -1,0 +1,49 @@
+.App{
+    height: 500px;
+    width: 400px;
+    padding-top: 30px;
+    text-align: center;
+    margin-left: 420px;
+    box-shadow: 25px 25px 50px 25px rgba(0, 0, 0, 0.25);
+  }
+  .icon{
+    width: 40px;
+    height:40px;
+    background-color: rgb(113, 60, 162);
+    text-align: center;
+    color: white;
+    margin-left: 180px;
+    margin-bottom: -14px;
+    margin-top: 50px;
+    font-size: 35px;
+  }
+  .App input{
+    width:300px;
+    height: 25px;
+    margin-top: 20px;
+  }
+  .App button{
+    /* padding: 5px 0; */
+    width:300px;
+    /* height: 25px; */
+    border-radius: 5px;
+    background-color: rgb(113, 60, 162) ;
+    height: 25px;
+    margin-top: 70px;
+    color: white;
+    border: none;
+  }
+  .App h2{
+    font-size: 30px;
+    margin-top: 13px;
+  }
+  .App p{
+    /* margin-top: -20px; */
+    color: rgb(101, 93, 93);
+  }
+  
+  .App .forgot{
+    margin-top: 20px;
+    margin-left: 188px;
+    color:white;
+  }

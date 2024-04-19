@@ -1,0 +1,9 @@
+.title1{
+
+    padding-left: 30px;
+    margin-top: 20px;
+    display: flex;
+    text-align: center;
+    gap: 80px;
+    background-color:yellowgreen ;
+}
